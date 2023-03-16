@@ -3,9 +3,7 @@ This repository is used for code upload of ESE 527 midterm project. And here is 
 
 **Movie EDA & Recommendation System for TMDB <br />**
 **Team Name:** Coding Monkey <br />
-**Team Member:** Momo Feng, Yueer He <br />
-
-<br/><br/>
+**Team Member:** Momo Feng, Yueer He <br /><br/>
 
 **Reading instruction and file description:**
 1. **netflix_titles.csv:** this csv file is the dataset we downloaded from the website 'https://www.kaggle.com/datasets/shivamb/netflix-shows'
