@@ -5,6 +5,8 @@ This repository is used for code upload of ESE 527 midterm project. And here is 
 **Team Name:** Coding Monkey <br />
 **Team Member:** Momo Feng, Yueer He <br />
 
+<br/><br/>
+
 **Reading instruction and file description:**
 1. **netflix_titles.csv:** this csv file is the dataset we downloaded from the website 'https://www.kaggle.com/datasets/shivamb/netflix-shows'
 2. **Data preprocessing.ipynb:** this document show our data preprocessing step, including giving a broad view on the data and dealing with null values. The PDF document with the name 'Data Preprocessing - pdf version of the jupyter notebook' is a pdf version of all the code and output in the jupyter notebook.
