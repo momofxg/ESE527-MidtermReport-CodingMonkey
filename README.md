@@ -12,3 +12,4 @@ This repository is used for code upload of ESE 527 midterm project. And here is 
 4. **Data visualization.ipynb:** this document show our data visualization step, including the code that we generate to output the plot in our midterm report.
 5. **Outlier Detection.ipynb:** this document show our outlier detection step, including our code to detect the outlier.
 6. **cleaned_score.csv:** this csv file is the dataset after merging the score.
+7. The data for the Hybrid Recommender is too big to be uploaded to the repository, it can be found in the link: 'https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset'
